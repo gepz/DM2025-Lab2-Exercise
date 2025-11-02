@@ -5,3 +5,5 @@ config/.env
 *.bin
 *.gz
 
+note-*.md
+note-*.py
